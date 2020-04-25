@@ -1,3 +1,9 @@
+
+#adapted from https://digitalcollections.wp.txstate.edu/2018/04/04/using-python-to-create-directories-and-move-files/
+#added terminal entry
+
+
+
 import os
 import shutil
 import sys
